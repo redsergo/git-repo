@@ -1,4 +1,4 @@
 print("Hello world;")
 print("Hello every;")
 print("Hello;")
-print ("advanced hello")
+print ("advanced hello;")
